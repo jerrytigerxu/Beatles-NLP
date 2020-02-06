@@ -4118,7 +4118,7 @@ plt.show()
 ```
 
 
-![png](Beatles%20NL_files/Beatles%20NL_66_0.png)
+![png](images/Beatles%20NL_66_0.png)
 
 
 ### Latent Semantic Analysis of BoW Embedding + TFIDF
@@ -4155,7 +4155,7 @@ plt.show()
 ```
 
 
-![png](Beatles%20NL_files/Beatles%20NL_69_0.png)
+![png](images/Beatles%20NL_69_0.png)
 
 
 ### Latent Semantic Analysis: Spacy NLP Features
@@ -4185,7 +4185,7 @@ plt.show()
 ```
 
 
-![png](Beatles%20NL_files/Beatles%20NL_72_0.png)
+![png](images/Beatles%20NL_72_0.png)
 
 
 ## Modeling
